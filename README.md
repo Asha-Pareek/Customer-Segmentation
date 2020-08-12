@@ -1,7 +1,8 @@
 # Customer-Segmentation
 Analytics Vidhya
 
-Private leaderboard score: 0.93215
+Private leaderboard score: 0.93215 using XGBoost
+                           0.93088 using KNN
 
 # Problem Statement
 An automobile company has plans to enter new markets with their existing products (P1, P2, P3, P4 and P5). After intensive market research, they’ve deduced that the behavior of new market is similar to their existing market.
@@ -13,4 +14,4 @@ The evaluation metric for this hackathon is Accuracy Score.
 # Approach
 1.	There are 2627 rows in test, out of which 2332 are already available in train data.
 2.	Need to predict only for 295 rows (11%)
-3.	Used XGBoost for predicting lables for these 295 observations.
+3.	Used XGBoost or KNN for predicting lables for these 295 observations.
