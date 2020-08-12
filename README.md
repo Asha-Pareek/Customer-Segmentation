@@ -1,8 +1,7 @@
 # Customer-Segmentation
 Analytics Vidhya
 
-Private leaderboard score: 0.93215 using XGBoost
-                           0.93088 using KNN
+Private leaderboard score: 0.93215 using XGBoost and 0.93088 using KNN
 
 # Problem Statement
 An automobile company has plans to enter new markets with their existing products (P1, P2, P3, P4 and P5). After intensive market research, they’ve deduced that the behavior of new market is similar to their existing market.
